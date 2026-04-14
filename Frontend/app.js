@@ -3,7 +3,7 @@
 //   Backend API: http://localhost:3000
 // =============================================
 
-const API = "http://localhost:3000/api/customers";
+const API = "https://ks-web-app.onrender.com/api/customers";
 
 let allCustomers = [];
 let currentCustomerId = null;
