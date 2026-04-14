@@ -1,7 +1,7 @@
 const express = require("express");
 const router  = express.Router();
-const Customer    = require("../models/customer.js");
-const Transaction = require("../models/transaction.js");
+const Customer    = require("../models/Customer.js");
+const Transaction = require("../models/Transaction.js");
 
 
 // ─── Add Customer ──────────────────────────────
